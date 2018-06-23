@@ -1,5 +1,8 @@
 ## Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
 
+# Overview
+
+This is the code for [this](https://youtu.be/N0Ld2iTMaMs) video on Youtube by Siraj Raval on DeepMind's new GQN. Want some working code? Check out [this](https://github.com/llSourcell/Generative-Query-Network/upload) repository. 
 
 The following version of the datasets are available:
 
