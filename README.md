@@ -81,3 +81,9 @@ Raw data files referred to in this document are available to download
 ### Notes
 
 This is not an official Google product.
+
+## References
+- Issues https://github.com/deepmind/gqn-datasets/issues
+- https://deepmind.com/blog/neural-scene-representation-and-rendering/
+- https://deepmind.com/research/publications/consistent-generative-query-networks/
+
